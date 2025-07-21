@@ -1,3 +1,4 @@
+
 # syntax=docker/dockerfile:1
 ARG RUNNER_VERSION=latest
 ARG BASE_IMAGE=ghcr.io/actions/actions-runner:${RUNNER_VERSION}
